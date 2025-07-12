@@ -1,4 +1,3 @@
-
 /* Example 2.1 - Working with int, double, and num */
 
 void main() {
