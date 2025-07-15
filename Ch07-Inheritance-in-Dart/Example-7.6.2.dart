@@ -1,12 +1,9 @@
 /* Example 7.6.2 - Mxins and Interfaces: Defining an Interface in Dart */
 
-
-
-
 void main() {
   Dog myDog = Dog();
   myDog.makeSound(); // Output: Woof! Woof!
-  
+
   Duck d = Duck();
   d.fly();  // Output: Duck is flying.
   d.swim(); // Output: Duck is swimming.
