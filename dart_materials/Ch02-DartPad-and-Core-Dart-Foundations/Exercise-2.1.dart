@@ -1,3 +1,5 @@
+// ignore_for_file: unused_local_variable
+
 /* Exercise 2.1. - Simple Calculator
 
 Combine parsing, var, and numeric types to build a small calculator.

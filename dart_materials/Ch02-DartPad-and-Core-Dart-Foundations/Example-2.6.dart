@@ -1,3 +1,5 @@
+// ignore_for_file: dead_code
+
 /* Example 2.6. - Null Safety in Dart */
 
 void main() {
@@ -13,6 +15,7 @@ void main() {
 
   /* 2.6.4. Checking for Null */
    String? message;
+  // ignore: unnecessary_null_comparison
   if (message != null) {
     print(message.length);
   } else {
