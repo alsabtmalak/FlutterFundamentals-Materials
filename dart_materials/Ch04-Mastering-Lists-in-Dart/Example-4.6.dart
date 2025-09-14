@@ -1,4 +1,4 @@
-/* Example 4.7 - Using List Methods */
+/* Example 4.6 - More List Methods and Properties */
 
 void main() {
   	List<String> names = ['Alice', 'Bob', 'Charlie', 'Andrew'];

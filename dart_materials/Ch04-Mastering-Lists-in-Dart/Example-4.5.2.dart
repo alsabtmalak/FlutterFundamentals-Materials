@@ -1,16 +1,9 @@
-/* Example 4.5.2 - Commong List Operations: Removing Elements */
+/* Example 4.5.2 - Iterating Over Lists: For-in Loop */
 
 void main() {
-  var animals = ['Lion', 'Tiger', 'Leopard', 'Cheetah'];
-  print(animals); // [Lion, Tiger, Leopard, Cheetah]
+   List<String> colors = ['red', 'green', 'blue'];
 
-  animals.removeAt(1); // Removes the element at index 1
-  print(animals); // [Lion, Leopard, Cheetah]
-
-
-  animals.removeLast(); // Removes the last element
-  print(animals); // [Lion, Leopard]
-
-  animals.remove('Lion'); // Removes the element 'Lion'
-  print(animals); // [Leopard]
+   for (var color in colors) {
+  print('Color: $color');
+} 
 }

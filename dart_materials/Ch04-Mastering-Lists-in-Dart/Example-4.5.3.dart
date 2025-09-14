@@ -1,4 +1,4 @@
-/* Example 4.6.3 - Iterating Over Lists: ForEach Loop */
+/* Example 4.5.3 - Iterating Over Lists: ForEach Loop */
 
 void main() {
 
@@ -15,7 +15,7 @@ void main() {
     print('Original: $num, Doubled: $doubled');
   });
 
-  /* Example 3 */
+  /* Example 3: */
   // List of integers.
   List<int> num = [1, 2, 3, 4];
 

@@ -1,10 +1,10 @@
-/* Example 4.3.1 - List Types: Growable Lists */
+/* Example 4.3.1. Accessing and Modifying Lists: List Reference Semantics in Dart */
 
 void main() {
-  List<String> growableList = ['Lion', 'Tiger', 'Leopard'];
-  print(growableList); // [Lion, Tiger, Leopard]
-  
-  // Adding an element
-  growableList.add('Cheetah');
-  print(growableList); // [Lion, Tiger, Leopard, Cheetah]
+  List<int> w1 = [2, 4, 6];
+  List<int> w2 = [2, 4, 6];
+  List<int> w3 = w1;
+  print('w1=$w1 , \nw2=$w2 , \nw3=$w3 ');
+  w1[2] = 10;
+  print('w1=$w1 , \nw2=$w2 , \nw3=$w3 ');
 }

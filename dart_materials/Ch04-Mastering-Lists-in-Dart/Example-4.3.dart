@@ -1,4 +1,4 @@
-/* Example 4.4 - Accessing and Modifying Lists */
+/* Example 4.3. - Accessing and Modifying Lists */
 
 void main() {
   List<String> fruits = ['Apple', 'Banana', 'Cherry'];
