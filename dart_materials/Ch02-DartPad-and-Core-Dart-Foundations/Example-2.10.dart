@@ -1,11 +1,11 @@
-/* Example 2.10 - Prefix and Postfix Increment/Decrement */
-void main() {
-  int x = 0;
-  int y = ++x;  // prefix increment
-  print('x = $x'); // 1
-  print('y = $y'); // 1
+/* Example 2.10. - Logical Operators  */
 
-  int z = x++;  // postfix increment
-  print('x = $x'); // 2
-  print('z = $z'); // 1
+void main() {
+  bool result1 = (2 == 2) && (3 < 2);  // false
+  bool result2 = (2 == 2) || (3 < 2);  // true
+  bool result3 = !(2 == 2);           // false
+
+  print(result1);
+  print(result2);
+  print(result3);
 }

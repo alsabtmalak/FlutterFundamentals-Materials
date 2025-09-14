@@ -1,18 +1,12 @@
+/* Example 2.8. - Prefix and Postfix Increment/Decrement */
+
 void main() {
-   // int a = 10;
-   // a = null; // Error!
+  int x = 0;
+  int y = ++x;  // prefix increment
+  print('x = $x'); // 1
+  print('y = $y'); // 1
 
-  int? a; // defaults to null
-   a = null;
-   print(a); // null
-
-   String? message;
-
-  if (message != null) {
-    print(message.length);
-  } else {
-    print("No message available.");
-  }
-    String? message2;
-  print(message2?.length); // null instead of an error
+  int z = x++;  // postfix increment
+  print('x = $x'); // 2
+  print('z = $z'); // 1
 }

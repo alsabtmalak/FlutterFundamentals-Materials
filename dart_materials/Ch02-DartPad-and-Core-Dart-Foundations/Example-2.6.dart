@@ -1,12 +1,23 @@
-/* Example 2.6 -String Interpolation */
+/* Example 2.6. - Null Safety in Dart */
 
 void main() {
-  String name = "Ahmed";
-  int age = 25;
 
-  print('Student $name is $age years old');
-  print('$name after 2 years will be ${age + 2} years old');
-  print('Student $name has ${name.length} characters in his name');
-  print('The sum of 3 + 2 is ${3 + 2}');
-  print('Converting $name to upper case: ${name.toUpperCase()}');
+  /* 2.6.2. Assigning Null to a Non-Nullable Variable (Error) */
+   // int a = 10;
+   // a = null; // Error!
+
+  /* 2.6.3. Correct Way (Using ?) */
+  int? a; // defaults to null
+   a = null;
+   print(a); // null
+
+  /* 2.6.4. Checking for Null */
+   String? message;
+  if (message != null) {
+    print(message.length);
+  } else {
+    print("No message available.");
+  }
+    String? message2;
+  print(message2?.length); // null instead of an error
 }

@@ -1,4 +1,4 @@
-/* Example 2.3 - Using var as a Dynamic Type */
+/* Example 2.2.2. - Using var as a Dynamic Type */
 
 void main() {
   var x8; // No initial value => dynamic

@@ -1,8 +1,13 @@
-/* Example 2.7 - Constants and Variables in Dart */
+/* Example 2.7 - Math Operators in Dart */
 
 void main() {
-  const String appName = 'MyApp';
-  final DateTime currentDate = DateTime.now();
-  print('Application Name: $appName');
-  print('Current Date: $currentDate');
+  int a = 5;
+  int b = 2;
+
+  print('Addition: ${a + b}');          // 7
+  print('Subtraction: ${a - b}');       // 3
+  print('Multiplication: ${a * b}');    // 10
+  print('Division: ${a / b}');          // 2.5
+  print('Integer Division: ${a ~/ b}'); // 2
+  print('Modulus: ${a % b}');           // 1
 }

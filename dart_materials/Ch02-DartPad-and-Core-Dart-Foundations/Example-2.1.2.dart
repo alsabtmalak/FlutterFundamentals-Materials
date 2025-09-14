@@ -1,4 +1,4 @@
-/* Example 2.1 - Working with int, double, and num */
+/* Example 2.1.2. - Working with int, double, and num */
 
 void main() {
   int x1 = 1;

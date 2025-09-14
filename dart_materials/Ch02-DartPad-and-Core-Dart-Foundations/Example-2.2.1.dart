@@ -1,4 +1,4 @@
-/* Example 2.2 - var Infers the Type */
+/* Example 2.2.1. - var Infers the Type */
 
 void main() {
   var x5 = 5; // `var` => int

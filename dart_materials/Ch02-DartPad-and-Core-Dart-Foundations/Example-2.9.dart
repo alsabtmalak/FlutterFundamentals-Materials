@@ -1,13 +1,10 @@
-/* Example 2.9 - Math Operators in Dart */
+/* Example 2.9. - Equality and Relational Operators */
 
 void main() {
-  int a = 5;
-  int b = 2;
-
-  print('Addition: ${a + b}');          // 7
-  print('Subtraction: ${a - b}');       // 3
-  print('Multiplication: ${a * b}');    // 10
-  print('Division: ${a / b}');          // 2.5
-  print('Integer Division: ${a ~/ b}'); // 2
-  print('Modulus: ${a % b}');           // 1
+  print(2 == 2);   // true
+  print(2 != 2);   // false
+  print(3 > 2);    // true
+  print(3 < 2);    // false
+  print(2 >= 2);   // true
+  print(1 <= 2);   // true
 }

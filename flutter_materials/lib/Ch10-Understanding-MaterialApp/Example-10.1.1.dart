@@ -1,8 +1,8 @@
-/* Example 10.2 - Minimal Code Example */
+/* Example 10.1: : Demonstrates a simple app that uses MaterialApp and Scaffold to display an app bar and centered text. */
 
 import 'package:flutter/material.dart';
 
-class Example10_2 extends StatelessWidget {
+class Example10_1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -11,6 +11,3 @@ class Example10_2 extends StatelessWidget {
   }
 }
 
-void main() {
-  runApp(Example10_2());
-}
