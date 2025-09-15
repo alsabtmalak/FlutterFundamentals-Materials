@@ -1,4 +1,4 @@
-/* Example 6.2.1 - Properties and Methods: Properties (Fields) */
+/* Example 6.2.1. - Properties and Methods: Properties (Fields) */
 
 class Car {
   String brand;

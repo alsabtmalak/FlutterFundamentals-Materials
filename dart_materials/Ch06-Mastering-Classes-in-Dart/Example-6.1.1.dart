@@ -1,4 +1,4 @@
-/* Example 6.1.1 - Introduction to Dart Classes: Basic Class Structure */
+/* Example 6.1.1. - Introduction to Dart Classes: Basic Class Structure */
 
 class Person {
   // Properties (fields)

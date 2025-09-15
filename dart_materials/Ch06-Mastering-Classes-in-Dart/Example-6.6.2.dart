@@ -1,4 +1,4 @@
-/* Example 6.6.2 - Creating and Using Objects: Accessing Properties and Methods */
+/* Example 6.6.2. - Creating and Using Objects: Accessing Properties and Methods */
 
 class Car {
   String brand;

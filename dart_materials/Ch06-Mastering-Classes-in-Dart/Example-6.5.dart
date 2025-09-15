@@ -1,4 +1,4 @@
-/* Example 6.5 - Public vs. Private */
+/* Example 6.5. - Public vs. Private */
 
 class MyClass {
   // Public field

@@ -1,4 +1,4 @@
-/* Example 6.6.2 - Creating and Using Objects: Full Workflow */
+/* Example 6.7.- Creating and Using Objects: An Example of a Full Workflow */
 
 class Book {
   String title;

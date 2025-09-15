@@ -1,4 +1,4 @@
-/* Example 6.2.2 - Properties and Methods: Methods */
+/* Example 6.2.2. - Properties and Methods: Methods */
 
 class BankAccount {
   double balance = 0;

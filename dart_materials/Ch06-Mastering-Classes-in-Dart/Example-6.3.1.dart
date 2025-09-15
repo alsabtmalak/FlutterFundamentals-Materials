@@ -1,4 +1,4 @@
-/* Example 6.3.1 - Constructors: Default Constructor */
+/* Example 6.3.1. - Constructors: Default Constructor */
 
 class Animal {
   String name = 'Unknown';

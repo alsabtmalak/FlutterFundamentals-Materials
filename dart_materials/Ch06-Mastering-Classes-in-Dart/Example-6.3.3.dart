@@ -1,4 +1,4 @@
-/* Example 6.3.3 - Constructors: Named Constructors */
+/* Example 6.3.3. - Constructors: Named Constructors */
 
 class Point {
   double x;

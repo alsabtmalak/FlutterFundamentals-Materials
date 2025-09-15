@@ -1,4 +1,4 @@
-/* Example 6.3.2 - Constructors: Parameterized Constructors */
+/* Example 6.3.2. - Constructors: Parameterized Constructors */
 
 class Animal {
   String name;

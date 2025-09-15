@@ -1,4 +1,4 @@
-/* Example 6.4.2 - Getters and Setters: Using Getters and Setters */
+/* Example 6.4.2. - Getters and Setters: Using Getters and Setters */
 
 class Student {
   String _name = '';
