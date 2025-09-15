@@ -1,4 +1,4 @@
-/* Example 5.6.2.1 - More Complex Higher-Order: doMath Function */
+/* Example 5.7.2. - Using Anonymous Functions in Higher-Order Functions: More Complex Higher-Order */
 
 /// A higher-order function that accepts another function
 /// and two integers, then applies that function to the integers.

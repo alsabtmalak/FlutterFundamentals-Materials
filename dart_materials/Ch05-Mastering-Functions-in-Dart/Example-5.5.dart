@@ -1,4 +1,4 @@
-/* Example 5.4.2 - Arrow Functions: Examples */
+/* Example 5.5. - Arrow Functions */
 
 
 void main() {

@@ -1,4 +1,4 @@
-/* Example 5.1.3.3 - Scope of variables in functions and outside functions: Block Scope */
+/* Example 5.2.3. - Scope of variables in Functions: Block Scope */
 
 void main() {
 

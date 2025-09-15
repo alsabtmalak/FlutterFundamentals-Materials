@@ -1,6 +1,5 @@
-/* Example 5.1.3.1 - Scope of variables in functions and outside functions: Top Level Scope (Global Variables) */
+/* Example 5.2.1. - Scope of variables in Functions: Top-Level Scope (Global Variables) */
 
-// Top-level variables
 int globalCount = 10;
 String greeting = "Hello, world!";
 

@@ -1,4 +1,4 @@
-/* Example 5.1.3.2 - Scope of variables in functions and outside functions: Function Scope (Local Variables) */
+/* Example 5.2.2. - Scope of variables in Functions: Function Scope (Local Variables) */
 
 void main() {
   int localCount = 5;  // localCount is local to main()

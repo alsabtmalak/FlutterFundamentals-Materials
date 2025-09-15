@@ -1,4 +1,4 @@
-/* Example 5.2.2.2 - Positional Paremeters, Optional: Calling Functions with Optional Parameters */
+/* Example 5.3.2. - Parameters: Positional Paremeters, Optional */
 
 void main() {
   String text = 'Hello, World!';

@@ -1,4 +1,4 @@
-/* Example 5.1.3.4 - Scope of variables in functions and outside functions: Function Parameters */
+/* Example 5.2.4. - Scope of variables in Functions: Function Parameters */
 
 void greet(String name) {
   // 'name' is only accessible within this function.

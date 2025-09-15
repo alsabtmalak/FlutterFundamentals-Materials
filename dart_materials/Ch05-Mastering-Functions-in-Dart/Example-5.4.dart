@@ -1,4 +1,4 @@
-/* Example 5.3 - Default Values and Nullability */
+/* Example 5.4. - Default Values and Nullability */
 
 void enableFlags({bool? bold, bool? hidden}) {
   print('$bold and $hidden');

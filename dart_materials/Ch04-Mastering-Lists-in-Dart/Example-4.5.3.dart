@@ -1,3 +1,5 @@
+// ignore_for_file: unused_local_variable
+
 /* Example 4.5.3 - Iterating Over Lists: ForEach Loop */
 
 void main() {

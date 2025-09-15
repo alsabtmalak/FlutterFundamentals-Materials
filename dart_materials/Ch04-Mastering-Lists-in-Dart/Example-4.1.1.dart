@@ -1,3 +1,5 @@
+// ignore_for_file: unused_local_variable
+
 /* Example 4.1.1 - Creating Lists: Using Literals */
 
 void main() {
