@@ -11,7 +11,7 @@ void main() {
 
 /* Example 1: Basic Interface Implementation */
 // Define an interface (regular class)
-class Animal {
+abstract class Animal {
   void makeSound(); // Abstract method
 }
 

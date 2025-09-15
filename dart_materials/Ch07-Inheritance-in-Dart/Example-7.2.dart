@@ -1,4 +1,4 @@
-/* Example 7.2 - Introduction to Inheritance: Extending a Class */
+/* Example 7.2. - Extending a Class */
 
 class Person {
   String name;

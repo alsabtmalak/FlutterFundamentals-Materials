@@ -1,4 +1,4 @@
-/* Example 7.4 - The super Keyword */
+/* Example 7.4. - The super Keyword */
 
 class Animal {
   void makeSound() {

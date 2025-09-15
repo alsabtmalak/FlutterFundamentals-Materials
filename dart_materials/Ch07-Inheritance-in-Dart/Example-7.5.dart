@@ -1,4 +1,5 @@
-/* Example 7.5 - Abstract Classes */
+/* Example 7.5. - Abstract Classes */
+
 abstract class Shape {
   // Abstract method: no implementation provided.
   double area();

@@ -1,4 +1,4 @@
-/* Example 7.6.1 - Mxins and Interfaces: Example of a Mixin */
+/* Example 7.6.1 - Mxins and Interfaces: An Example of a Mixin */
 
 mixin CanFly {
   void fly() {

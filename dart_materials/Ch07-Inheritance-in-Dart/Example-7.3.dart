@@ -1,4 +1,4 @@
-/* Example 7.3 - Introduction to Inheritance: Method Overriding */
+/* Example 7.3. - Method Overriding */
 
 class Person {
   String name;
