@@ -1,16 +1,6 @@
-/* Example 10.2 - Minimal Code Example */
-
 import 'package:flutter/material.dart';
-
-class Example10_2 extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Text('Hello from MaterialApp!'),
-    );
-  }
-}
+import 'Ch12-ImagesInFlutter/Example-12.3.1.dart';
 
 void main() {
-  runApp(Example10_2());
+  runApp(Example12_3_1());
 }
